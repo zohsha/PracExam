@@ -5,6 +5,11 @@ public class Fruit_230 {
 	{
 		this.color=color;
 	}
+	
+	String get_color()
+	{
+		return color;
+	}
 
 	public static void main(String[] args) {
 		
